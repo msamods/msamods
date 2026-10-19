@@ -1,13 +1,16 @@
 <div align="center">
 
 <!-- Animated Dynamic Waving Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,25:0E172A,70:00F0FF,100:7928CA&height=230&section=header&text=Muhammed%20Shefin&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Generalist%20%E2%80%A2%20Systems%20%26%20Infrastructure%20Specialist%20%E2%80%A2%20WaMaX%20Engine&descSize=17&descAlignY=58&descAlign=50" alt="Muhammed Shefin Animated Header" />
-
-<a href="https://wywk.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=820&height=100&lines=⚡+Full-Stack+Developer+%26+Distributed+Systems+Architect;🤖+WaMaX+WhatsApp+Engine+%26+Intelligent+Workflow+Automation;🖨️+Creator+of+AndroPrint+(Android+Hardware+Cloud+Print+Server);🐳+Linux+Server+Admin%2C+Docker+Volumes+%26+Cloudflare+Tunnels;🎙️+AI+Integrations:+TailorNotes+(Deepgram+%2B+Google+Gemini);🛡️+Production+QA%2C+Security+Hardening+%26+Incident+Triage;📈+Technical+SEO%2C+GEO%2FAEO+%26+High-Scale+Web+Architecture" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,23,24&height=220&section=header&text=Muhammed%20Shefin&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Systems%20%26%20Infrastructure%20Specialist%20%E2%80%A2%20WaMaX%20Engine%20%E2%80%A2%20Full-Stack%20Generalist&descSize=17&descAlignY=58&descAlign=50" alt="Muhammed Shefin Animated Header" />
 
 <br/>
+
+<!-- Real-Time Typing Animation -->
+<a href="https://wywk.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=Full-Stack+Generalist+%26+Systems+Architect;WaMaX+Custom+WhatsApp+Engine+%26+Automation;Creator+of+AndroPrint+(Android+Cloud+Print+Server);Linux+Server+Admin%2C+Docker+%26+Cloudflare+Tunnels;TailorNotes+AI+(Deepgram+%2B+Google+Gemini);Production+QA%2C+Security+Hardening+%26+Incident+Triage;Technical+SEO%2C+GEO%2FAEO+%26+Web+Performance" alt="Typing SVG Animation" />
+</a>
+
+<br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=msamods&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/msamods)
 [![Role](https://img.shields.io/badge/ROLE-SYSTEMS_%26_INFRASTRUCTURE_SPECIALIST-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/msamods)
@@ -34,7 +37,7 @@
 
 <img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" />
 
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="Waving Hand"> I am **Muhammed Shefin**, a **Full-Stack Technology Generalist, Systems & Infrastructure Specialist, and Technical Product Builder**. 
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="Waving Hand"> I am **Muhammed Shefin**, a **Full-Stack Technology Generalist, Systems & Infrastructure Specialist, and Technical Product Builder**.
 
 My work spans the full technical spectrum: understanding core business requirements, diagnosing complex operational bottlenecks across code and infrastructure, engineering scalable solutions, and managing continuous production deployments.
 
@@ -233,7 +236,7 @@ graph TD
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msamods/msamods/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msamods/msamods/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/msamods/msamods/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/msamods/msamods/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -276,7 +279,7 @@ graph TD
 <br/>
 
 <!-- Animated Dynamic Waving Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:00F0FF,100:090D16&height=120&section=footer" alt="Animated Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,23,24&height=120&section=footer" alt="Animated Footer" />
 
 <div align="center">
   <sub>Engineered with precision for <b>Muhammed Shefin</b> • Founder @ <a href="https://wywk.in">wywk.in</a> • <b>MSA MODS</b></sub>
