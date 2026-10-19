@@ -12,21 +12,26 @@
 
 <br/><br/>
 
-[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL_%26_ACTIVE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/msamods)
-[![Role](https://img.shields.io/badge/ROLE-SYSTEMS_%26_INFRASTRUCTURE_SPECIALIST-A855F7?style=for-the-badge&logo=serverfault&logoColor=white)](https://github.com/msamods)
-[![Location](https://img.shields.io/badge/LOCATION-KERALA%2C_INDIA-FF7B72?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/msamods)
+<!-- Animated System Status Dock (Single-Row, Pulsing Radar, Zero Wrapping) -->
+<div align="center">
+  <img src="./assets/status.svg" width="100%" alt="System Status Bar" />
+</div>
 
 <br/>
 
-### 🌐 Connect & Collaborate
+<div align="center">
+
+<h3 align="center">🌐 Quick Connect &amp; Social Ecosystem</h3>
 
 <p align="center">
-  <a href="https://wywk.in" target="_blank"><img src="https://img.shields.io/badge/Website-wywk.in-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
-  <a href="https://linkedin.com/in/muhammed-shefin-a-8b11082a7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/msamods" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://codepen.io/msamods" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
-  <a href="mailto:msamods.org@gmail.com"><img src="https://img.shields.io/badge/Email-msamods.org@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wywk.in" target="_blank"><img src="https://img.shields.io/badge/Website-wywk.in-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=0B0F19&color=00F0FF" alt="Website" /></a> &nbsp;
+  <a href="https://linkedin.com/in/muhammed-shefin-a-8b11082a7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Shefin-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0B0F19&color=0A66C2" alt="LinkedIn" /></a> &nbsp;
+  <a href="https://instagram.com/msamods" target="_blank"><img src="https://img.shields.io/badge/Instagram-@msamods-0B0F19?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0B0F19&color=E4405F" alt="Instagram" /></a> &nbsp;
+  <a href="https://codepen.io/msamods" target="_blank"><img src="https://img.shields.io/badge/CodePen-msamods-0B0F19?style=for-the-badge&logo=codepen&logoColor=38BDF8&labelColor=0B0F19&color=38BDF8" alt="CodePen" /></a> &nbsp;
+  <a href="mailto:msamods.org@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0B0F19&color=EA4335" alt="Email" /></a>
 </p>
+
+</div>
 
 </div>
 
