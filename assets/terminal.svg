@@ -1,0 +1,81 @@
+<svg width="850" height="260" viewBox="0 0 850 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0" y1="0" x2="850" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080C14"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <filter id="termGlow">
+      <feGaussianBlur stdDeviation="8" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .cursor {
+      animation: blink 0.9s steps(2, start) infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .term-line {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
+      font-size: 13px;
+      font-weight: 500;
+    }
+  </style>
+
+  <!-- Terminal Window Frame -->
+  <rect x="1" y="1" width="848" height="258" rx="12" fill="url(#termBg)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Top Title Bar -->
+  <path d="M1 13C1 6.37258 6.37258 1 13 1H837C843.627 1 849 6.37258 849 13V38H1V13Z" fill="#131C31"/>
+  <line x1="1" y1="38" x2="849" y2="38" stroke="#1E293B"/>
+
+  <!-- Window Dots -->
+  <circle cx="24" cy="19" r="6" fill="#EF4444"/>
+  <circle cx="44" cy="19" r="6" fill="#F59E0B"/>
+  <circle cx="64" cy="19" r="6" fill="#10B981"/>
+
+  <!-- Window Title -->
+  <text x="425" y="24" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, monospace" font-size="12" font-weight="600">msamods@edge-node: ~/systems</text>
+
+  <!-- Terminal Content Lines -->
+  <g transform="translate(26, 70)" class="term-line">
+    <!-- Line 1 -->
+    <text x="0" y="0">
+      <tspan fill="#00F0FF">shefin@wywk</tspan><tspan fill="#64748B">:</tspan><tspan fill="#A855F7">~/engines</tspan><tspan fill="#F8FAFC">$ </tspan>
+      <tspan fill="#38BDF8">wamax-engine --init --multi-device --anti-ban</tspan>
+    </text>
+    <text x="0" y="22" fill="#34D399">
+      [✓] WaMaX Engine active • Socket session paired • Token-bucket throttle: ENABLED
+    </text>
+
+    <!-- Line 2 -->
+    <text x="0" y="52">
+      <tspan fill="#00F0FF">shefin@wywk</tspan><tspan fill="#64748B">:</tspan><tspan fill="#A855F7">~/hardware</tspan><tspan fill="#F8FAFC">$ </tspan>
+      <tspan fill="#38BDF8">androprint --start-daemon --device termux --port 9100</tspan>
+    </text>
+    <text x="0" y="74" fill="#34D399">
+      [✓] ESC/POS Thermal Server running • Zero-PC Cloud/LAN printing READY
+    </text>
+
+    <!-- Line 3 -->
+    <text x="0" y="104">
+      <tspan fill="#00F0FF">shefin@wywk</tspan><tspan fill="#64748B">:</tspan><tspan fill="#A855F7">~/infra</tspan><tspan fill="#F8FAFC">$ </tspan>
+      <tspan fill="#38BDF8">docker compose up -d mysql-8 redis-cache &amp;&amp; cloudflared tunnel run</tspan>
+    </text>
+    <text x="0" y="126" fill="#34D399">
+      [✓] Containers healthy • Zero-port tunnel routing established -> wywk.in
+    </text>
+
+    <!-- Active Line -->
+    <text x="0" y="156">
+      <tspan fill="#00F0FF">shefin@wywk</tspan><tspan fill="#64748B">:</tspan><tspan fill="#A855F7">~/status</tspan><tspan fill="#F8FAFC">$ </tspan>
+      <tspan fill="#F8FAFC">echo "Systems fully operational."</tspan>
+      <tspan fill="#00F0FF" class="cursor"> █</tspan>
+    </text>
+  </g>
+</svg>

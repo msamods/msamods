@@ -1,0 +1,29 @@
+<svg width="850" height="8" viewBox="0 0 850 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00F0FF" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#A855F7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="laserGlow">
+      <feGaussianBlur stdDeviation="1.5" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .beam {
+      animation: sweep 3s linear infinite;
+    }
+    @keyframes sweep {
+      0% { transform: translateX(-400px); }
+      100% { transform: translateX(850px); }
+    }
+  </style>
+  <rect x="0" y="3" width="850" height="1" fill="#1E293B" />
+  <rect x="0" y="2" width="350" height="3" rx="1.5" fill="url(#laserGrad)" class="beam" filter="url(#laserGlow)" />
+</svg>

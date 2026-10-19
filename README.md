@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Dynamic Waving Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,23,24&height=220&section=header&text=Muhammed%20Shefin&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Systems%20%26%20Infrastructure%20Specialist%20%E2%80%A2%20WaMaX%20Engine%20%E2%80%A2%20Full-Stack%20Generalist&descSize=17&descAlignY=58&descAlign=50" alt="Muhammed Shefin Animated Header" />
+<!-- Pure Native Animated Cyber Header (Zero 3rd-party dependencies) -->
+<img width="100%" src="./assets/header.svg" alt="Muhammed Shefin Header" />
 
 <br/>
 
@@ -12,8 +12,8 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=msamods&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/msamods)
-[![Role](https://img.shields.io/badge/ROLE-SYSTEMS_%26_INFRASTRUCTURE_SPECIALIST-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/msamods)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL_%26_ACTIVE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/msamods)
+[![Role](https://img.shields.io/badge/ROLE-SYSTEMS_%26_INFRASTRUCTURE_SPECIALIST-A855F7?style=for-the-badge&logo=serverfault&logoColor=white)](https://github.com/msamods)
 [![Location](https://img.shields.io/badge/LOCATION-KERALA%2C_INDIA-FF7B72?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/msamods)
 
 <br/>
@@ -30,12 +30,10 @@
 
 </div>
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 👨‍💻 Engineering Profile & Overview
-
-<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" />
 
 Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="Waving Hand"> I am **Muhammed Shefin**, a **Full-Stack Technology Generalist, Systems & Infrastructure Specialist, and Technical Product Builder**.
 
@@ -51,10 +49,15 @@ Rather than looking at software solely as isolated code files, I engineer comple
 - 📈 **SEO, GEO & Digital Growth**: Technical SEO, Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), Schema.org (JSON-LD), and Google Analytics certified.
 - 🎓 **Academics**: BCA (2nd Year) @ **Vivekananda Global University**
 
-<br clear="right"/>
+<br/>
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Interactive Live System Terminal Animation -->
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Active System Terminal" />
+</div>
+
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 🏗️ The 5 Core Technical Capability Pillars
 
@@ -112,8 +115,8 @@ Rather than looking at software solely as isolated code files, I engineer comple
   </tr>
 </table>
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 🌟 Real-World Projects & Systems Portfolio
 
@@ -176,8 +179,8 @@ Rather than looking at software solely as isolated code files, I engineer comple
   </tr>
 </table>
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 📈 Technical SEO, GEO & Growth Architecture
 
@@ -190,8 +193,8 @@ Beyond writing software, I bridge the gap between engineering and digital acquis
 - **Structured Data**: Comprehensive JSON-LD schema markup (LocalBusiness, Organization, Product, Article, FAQ).
 - **Analytics & Conversion**: Certified in Google Analytics with telemetry tracking, conversion funnel audits, and user journey analytics.
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 💻 Technical Stack & Tooling
 
@@ -213,8 +216,8 @@ Beyond writing software, I bridge the gap between engineering and digital acquis
 | **Hardware, Mobile & IoT** | `Android Termux`, `ESC/POS Thermal Protocol`, `Android Rooting (Magisk)`, `ADB / Fastboot`, `Raspberry Pi 3B+`, `LoRa / GNSS` |
 | **QA, Security & Analytics** | `Production Debugging`, `Root-Cause Incident Triage`, `Server Hardening`, `Google Analytics Certified`, `Lighthouse` |
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 🏛️ End-to-End System Architecture
 
@@ -227,8 +230,8 @@ graph TD
     API --> INFRA["Infrastructure & Edge<br/>(Ubuntu VPS, Nginx, Cloudflare Tunnels, Android Termux Edge)"]
 ```
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 🐍 Contribution Activity Snake
 
@@ -240,8 +243,8 @@ graph TD
   </picture>
 </div>
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 📊 Live GitHub Analytics
 
@@ -265,8 +268,8 @@ graph TD
 
 </div>
 
-<!-- Animated Laser Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Animated Laser Beam Divider -->
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 ## 💡 Engineering Philosophy
 
@@ -278,9 +281,5 @@ graph TD
 
 <br/>
 
-<!-- Animated Dynamic Waving Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,23,24&height=120&section=footer" alt="Animated Footer" />
-
-<div align="center">
-  <sub>Engineered with precision for <b>Muhammed Shefin</b> • Founder @ <a href="https://wywk.in">wywk.in</a> • <b>MSA MODS</b></sub>
-</div>
+<!-- Pure Native Animated Footer -->
+<img width="100%" src="./assets/footer.svg" alt="Animated Footer" />
