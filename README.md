@@ -1,21 +1,21 @@
 <div align="center">
 
 # 💫 Muhammed Shefin (msamods)
-### Software Architect • Custom Automation & Messaging Engines • SaaS Product Builder • Infrastructure & DevOps
+### Full-Stack Technology Generalist • Systems & Infrastructure Specialist • Technical Product Builder
 
 <a href="https://wywk.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⚡+Full-Stack+%26+Distributed+Backend+Architecture;🤖+WaMaX+WhatsApp+Engine+%26+Intelligent+Automation+Pipelines;🖨️+Creator+of+AndroPrint+(Android+Hardware+Cloud+Print+Server);💼+SaaS+Builder:+WayFlow+ERP%2C+WaySpeed+POS+%26+WayPay;🐳+Docker%2C+Linux+Server+Administration+%26+Cloudflare+Tunnels;📈+Technical+SEO%2C+Core+Web+Vitals+%26+High-Scale+Web+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=820&height=100&lines=⚡+Full-Stack+Developer+%26+Distributed+Systems+Architect;🤖+WaMaX+WhatsApp+Engine+%26+Intelligent+Workflow+Automation;🖨️+Creator+of+AndroPrint+(Android+Hardware+Cloud+Print+Server);🐳+Linux+Server+Admin%2C+Docker+Volumes+%26+Cloudflare+Tunnels;🎙️+AI+Integrations:+TailorNotes+(Deepgram+%2B+Google+Gemini);🛡️+Production+QA%2C+Security+Hardening+%26+Incident+Triage;📈+Technical+SEO%2C+GEO%2FAEO+%26+High-Scale+Web+Architecture" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=msamods&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/msamods)
-[![Status](https://img.shields.io/badge/STATUS-ARCHITECTING_ENTERPRISE_SYSTEMS-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/msamods)
+[![Role](https://img.shields.io/badge/ROLE-SYSTEMS_%26_INFRASTRUCTURE_SPECIALIST-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/msamods)
 [![Location](https://img.shields.io/badge/LOCATION-KERALA%2C_INDIA-FF7B72?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/msamods)
 
 <br/>
 
-### 🌐 Connect With Me
+### 🌐 Connect & Collaborate
 
 <p align="center">
   <a href="https://wywk.in" target="_blank"><img src="https://img.shields.io/badge/Website-wywk.in-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
@@ -31,62 +31,71 @@
 
 ## 👨‍💻 Engineering Profile & Overview
 
-I am a **Systems Architect, Software Engineer, and Technical Product Builder** who works across the complete lifecycle of software: from engineering core application logic to managing containerized infrastructure, automating complex multi-system messaging workflows, and designing domain-driven SaaS products.
+I am a **Full-Stack Technology Generalist, Systems & Infrastructure Specialist, and Technical Product Builder**. My work spans the full technical spectrum: understanding core business requirements, diagnosing complex operational bottlenecks across code and infrastructure, engineering scalable solutions, and managing continuous production deployments.
 
-Rather than looking at software as isolated code files, I engineer complete operational ecosystems — connecting user interfaces, robust APIs, custom communication protocols, relational databases, AI automation pipelines, and bare-metal server infrastructure.
+Rather than looking at software solely as isolated code files, I engineer complete, resilient operational ecosystems — connecting responsive user interfaces, robust backend APIs, custom messaging protocols, relational database persistence, AI-driven automation pipelines, and bare-metal server infrastructure.
 
 - 🚀 **Founder & Technical Lead**: Heading **[WhatYouWantKerala (wywk.in)](https://wywk.in)** and **MSA MODS** engineering initiatives.
 - 🤖 **Custom Messaging Engine Architecture**: Creator of **WaMaX & WaMaX-Lite**, a high-concurrency custom WhatsApp automation engine featuring multi-device session management, strict anti-ban rate limiting, and interactive messaging payloads.
-- 🖨️ **Hardware & Edge Systems**: Creator of **[AndroPrint](https://github.com/msamods/androprint)** — a zero-PC ESC/POS thermal printer server running natively on Android via Termux + Node.js with LAN & Cloud raw socket routing.
-- 💼 **SaaS & Product Systems Design**: Architecting industry products including **WaySpeed POS** (offline-first restaurant POS), **WayFlow ERP**, **WaMaX Team Inbox**, **WhatsApp Recruitment ATS**, and **WayPay** (payment reconciliation workflows).
-- 🐳 **Infrastructure, Docker & Linux Ops**: Hands-on systems administrator managing Docker container environments, multi-version MySQL/MariaDB deployments, persistent volume architectures, Cloudflare Tunnels, and Linux server recovery.
-- 📈 **Technical SEO & High-Performance Web**: Deep mastery of Core Web Vitals (sub-second LCP, zero CLS), JSON-LD semantic schema markup, dynamic indexation pipelines, and edge-cached architectures.
+- 🖨️ **Hardware, IoT & Edge Systems**: Creator of **[AndroPrint](https://github.com/msamods/androprint)** (zero-PC thermal printing server via Android Termux + Node.js) and designer of distributed LoRa/GNSS hardware tracking architectures.
+- 🐳 **Server Administration & DevOps**: Hands-on Linux systems administrator managing Docker container environments, multi-version MySQL/MariaDB deployments, persistent volume architectures, Cloudflare Tunnels, PM2 process management, and live incident recovery.
+- 🛡️ **Production QA & Root-Cause Troubleshooting**: Multi-layer investigative debugging across devices, networks, APIs, databases, and servers (e.g., stabilizing live restaurant apps with GrubTech integrations).
+- 📈 **SEO, GEO & Digital Growth**: Technical SEO, Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), Schema.org (JSON-LD), and Google Analytics certified.
 - 🎓 **Academics**: BCA (2nd Year) @ **Vivekananda Global University**
 
 ---
 
-## 🏗️ Core Architectural Pillars & Capabilities
+## 🏗️ The 5 Core Technical Capability Pillars
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Custom Messaging Engines & Automation (WaMaX)</h3>
+      <h3>💻 1. Software & Application Development</h3>
       <ul>
-        <li><b>WaMaX Engine Architecture:</b> Built custom multi-device WhatsApp engine with automated QR handshake, session persistence, and full interactive UI elements (buttons/lists).</li>
-        <li><b>Anti-Ban & Throttling Algorithms:</b> Token-bucket rate limiting, human typing jitter emulation, and intelligent queue distribution.</li>
-        <li><b>Omnichannel Team Inbox:</b> Multi-number routing, role-based access control (RBAC), and automated staff assignment workflows.</li>
-        <li><b>Automated Recruitment ATS:</b> WhatsApp candidate intake, automated CV processing, AI qualification ranking & candidate status tracking.</li>
-        <li><b>Telegram & Headless Daemons:</b> High-throughput Telegram bots (Pyrogram/Telethon) and headless browser automation via Puppeteer & Selenium.</li>
+        <li><b>Frontend Engineering:</b> HTML5, CSS3, modern JavaScript, React.js, Vite + TypeScript, and Progressive Web Apps (PWA) designed for mobile-first workflows.</li>
+        <li><b>Backend & Microservices:</b> Node.js, Express.js, PHP, Go concepts, RESTful API design, and JSON payload contracts.</li>
+        <li><b>Application Architecture:</b> Attendance management, inventory & ERP concepts, offline-first POS systems, and service delivery platforms.</li>
+        <li><b>State & Validation:</b> Strict schema validation, role-based access control (RBAC), and session management.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 AI, LLMs & Workflow Orchestration</h3>
+      <h3>🖧 2. Servers, DevOps & Infrastructure</h3>
       <ul>
-        <li><b>n8n Intelligent Automation:</b> Multi-step autonomous pipelines connecting AI models, messaging webhooks, Google Sheets, and CRM databases.</li>
-        <li><b>Document Intelligence & OCR:</b> Automated extraction of structured JSON from PDFs, DOCX, and scanned images (Tesseract OCR + AI parsing).</li>
-        <li><b>Autonomous Business Agents:</b> Intelligent customer service responders, sales qualification bots, and natural language query processing over internal databases.</li>
-        <li><b>Structured Data Extraction:</b> Enforcing strict JSON schema contracts and validation for business document processing.</li>
+        <li><b>Linux Server Administration:</b> Ubuntu VPS administration, SSH key management, systemd services, PM2 process managers, and resource allocation.</li>
+        <li><b>Web Servers & Routing:</b> Apache, Nginx reverse-proxy configuration, SSL/TLS automation, and domain routing.</li>
+        <li><b>Docker Containerization:</b> Running and managing multi-service Docker deployments, volume mounts, persistent storage integrity, and container networking.</li>
+        <li><b>Zero-Port Networking:</b> Cloudflare Tunnels for secure ingress without public open ports, DNS troubleshooting, and DuckDNS setups.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 SaaS, ERP & Offline-First POS Engineering</h3>
+      <h3>🤖 3. Automation, APIs & Custom Messaging</h3>
       <ul>
-        <li><b>WaySpeed POS:</b> Offline-first restaurant & retail POS engine with order merging, kitchen display systems (KDS), token queueing, and receipt printing.</li>
-        <li><b>WayFlow ERP & Commerce:</b> Multi-tenant management for inventory control, automated billing, customer ledger records, and role-based permissions.</li>
-        <li><b>WayPay Financial Workflows:</b> Dynamic UPI QR generation, intent payments, cashier confirmation states, and transaction reconciliation logic.</li>
-        <li><b>CRM Manager Pro:</b> Modern customer relationship platform with bulk communication pipelines, QR ticketing, and real-time activity metrics.</li>
+        <li><b>WaMaX Messaging Engine:</b> Built custom multi-device WhatsApp engine with automated QR handshake, session persistence, and interactive button/list payloads.</li>
+        <li><b>Anti-Ban Rate Limiting:</b> Token-bucket throttling, human typing jitter emulation, and queue distribution.</li>
+        <li><b>Omnichannel Team Inbox:</b> Multi-number routing, conversation handoffs, and automated staff assignment workflows.</li>
+        <li><b>Browser & Workflow Automation:</b> Playwright, Puppeteer, n8n automation pipelines, webhooks, and background cron daemons.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🐳 DevOps, Docker & Linux Infrastructure</h3>
+      <h3>🧠 4. AI Integration & Edge/IoT Systems</h3>
       <ul>
-        <li><b>Docker Containerization:</b> Running and managing multi-service Docker deployments, volume mounts, persistent storage integrity, and container networking.</li>
-        <li><b>Database Operations:</b> Hands-on troubleshooting of MySQL 5.7/8.0 and MariaDB 11.8, authentication plugin transitions, SQL modes, and storage engine recovery.</li>
-        <li><b>Linux Server Administration:</b> Ubuntu VPS administration, SSH key management, systemd daemons, PM2 process management, and firewall security.</li>
-        <li><b>Cloudflare Tunnels & Networking:</b> Exposing internal and edge services securely without opening public inbound ports, DNS routing, and reverse proxies (Nginx).</li>
-        <li><b>Hardware Self-Hosting:</b> Low-power Linux servers, Raspberry Pi setups, and Android Termux bare-metal headless servers.</li>
+        <li><b>TailorNotes AI Pipeline:</b> Speech-to-text pipeline integrating Deepgram voice transcription with Google Gemini for structured data synthesis.</li>
+        <li><b>Document Intelligence:</b> Automated PDF, DOCX, and image parsing using Tesseract OCR + AI models for candidate and invoice extraction.</li>
+        <li><b>Hardware Printing (AndroPrint):</b> Direct TCP/IP communication with ESC/POS thermal printers over LAN & Cloud via Android Termux.</li>
+        <li><b>IoT System Architecture:</b> Remote GNSS location collection, LoRa gateway communications, power budgeting, and offline synchronization.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ 5. Security Hardening, Production QA & Technical Troubleshooting</h3>
+      <ul>
+        <li><b>Defensive Server Security:</b> Linux hardening, UFW firewall configurations, SSH permission management, reviewing exposed ports, and database access controls.</li>
+        <li><b>Multi-Layer Incident Investigation:</b> Diagnosing failures across client devices, network latency, API payloads, database locks (e.g. ibdata1 locking), and server crashes.</li>
+        <li><b>Production Application Stabilization:</b> Live incident triage, bug reproduction, functional/regression testing, and third-party integration recovery (e.g., Just Fit Food / GrubTech API).</li>
+        <li><b>Android Device Hacking:</b> Magisk rooting, custom recovery, Termux bare-metal server environments, ADB/Fastboot, and application reverse engineering.</li>
       </ul>
     </td>
   </tr>
@@ -94,46 +103,79 @@ Rather than looking at software as isolated code files, I engineer complete oper
 
 ---
 
-## 🌟 Star Projects & Systems Matrix
+## 🌟 Real-World Projects & Systems Portfolio
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🖨️ <a href="https://github.com/msamods/androprint">AndroPrint</a></h3>
       <p><b>Android ESC/POS Thermal Print Server (Termux + Node.js)</b></p>
-      <p>Eliminates bulky desktop computers by transforming any Android device into an always-on LAN & Cloud receipt printing server. Features PIN authentication, PDF/HTML/Image rasterization, web admin dashboard, and automated PM2 daemon execution.</p>
-      <p>
-        <code>Node.js</code> • <code>Android Termux</code> • <code>ESC/POS</code> • <code>Socket.io</code> • <code>PM2</code> • <code>Zero-PC</code>
-      </p>
+      <p>A zero-PC hardware server transforming an Android device into a dedicated cloud/LAN receipt printing bridge. Features PIN authentication, PDF/HTML/Image rasterization, web admin dashboard, and automated PM2 execution.</p>
+      <p><code>Node.js</code> • <code>Termux</code> • <code>ESC/POS</code> • <code>Socket.io</code> • <code>PM2</code> • <code>Hardware/IoT</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/msamods/WAMaX-Lite">WaMaX & WaMaX-Lite</a></h3>
       <p><b>Custom WhatsApp Automation Engine & Multi-Device API</b></p>
       <p>High-performance in-house messaging engine engineered for multi-device connectivity, interactive button support, strict anti-ban rate limiting algorithms, MySQL session persistence, and unified CLI operations.</p>
-      <p>
-        <code>Custom Engine</code> • <code>Node.js</code> • <code>MySQL</code> • <code>REST API</code> • <code>Shell</code> • <code>Webhooks</code>
-      </p>
+      <p><code>Custom Engine</code> • <code>Node.js</code> • <code>MySQL</code> • <code>REST API</code> • <code>Shell</code> • <code>Webhooks</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/msamods/CRM">CRM Manager Pro & whatsender</a></h3>
-      <p><b>Enterprise Messaging CRM & Campaign Platform</b></p>
-      <p>Comprehensive customer relationship management system featuring broadcast engines, instant offer generators, automated QR code generation, contact categorization, and real-time analytics.</p>
-      <p>
-        <code>Laravel</code> • <code>PHP</code> • <code>Node.js</code> • <code>MySQL</code> • <code>TailwindCSS</code> • <code>Automation</code>
-      </p>
+      <h3>🎙️ TailorNotes</h3>
+      <p><b>Voice-Driven AI Transcription & Workflow Engine</b></p>
+      <p>An intelligent audio processing pipeline combining <b>Deepgram</b> speech-to-text with <b>Google Gemini</b> AI models to transform spoken conversations into structured business documents and actions.</p>
+      <p><code>Google Gemini</code> • <code>Deepgram</code> • <code>Speech-to-Text</code> • <code>Python/Node.js</code> • <code>AI Pipeline</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 Proton Classes Attendance PWA</h3>
+      <p><b>Mobile-First Attendance & Branch Management Platform</b></p>
+      <p>Progressive Web Application (PWA) with multi-branch role-based permissions, shift logic, historical log audit, and database-backed student tracking.</p>
+      <p><code>PHP</code> • <code>MySQL</code> • <code>PWA</code> • <code>JavaScript</code> • <code>RBAC</code> • <code>Reporting</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 Water Delivery Management System</h3>
+      <p><b>Route Allocation & Financial Operations Engine</b></p>
+      <p>Comprehensive operational platform handling daily customer subscriptions, route planning, driver assignments, bottle collection tracking, and financial ledgers.</p>
+      <p><code>PHP</code> • <code>MySQL</code> • <code>JSON Data Store</code> • <code>Route Logistics</code> • <code>Accounting</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐪 Desert Camel Tracking IoT Architecture</h3>
+      <p><b>Long-Range Remote Livestock Telemetry</b></p>
+      <p>Engineered an IoT telemetry system architecture for tracking over 1,000 animals across arid terrains using GNSS location collection, LoRa gateway networks, power-budgeted battery design, and distributed offline sync.</p>
+      <p><code>GNSS</code> • <code>LoRa / LoRaWAN</code> • <code>IoT Gateways</code> • <code>Offline Sync</code> • <code>Low-Power</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍔 Just Fit Food Production Stabilization</h3>
+      <p><b>Live Incident Investigation & Food-Ordering API Triage</b></p>
+      <p>Stabilized a live food ordering application facing critical order synchronization failures and network dropouts involving GrubTech integration, restoring reliable customer ordering and backend communication.</p>
+      <p><code>Production QA</code> • <code>API Debugging</code> • <code>GrubTech</code> • <code>Incident Response</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://wywk.in">WhatYouWantKerala (wywk.in)</a></h3>
-      <p><b>High-Speed Regional Digital Directory & Web Ecosystem</b></p>
+      <p><b>High-Speed Regional Digital Platform & Technical SEO Engine</b></p>
       <p>Engineered with performance-first architecture: sub-second Core Web Vitals, rich JSON-LD local business schema, edge caching via Cloudflare, and optimized search engine indexation pipelines.</p>
-      <p>
-        <code>Full-Stack Web</code> • <code>Technical SEO</code> • <code>Schema (JSON-LD)</code> • <code>Cloudflare Edge</code> • <code>Nginx</code>
-      </p>
+      <p><code>Full-Stack Web</code> • <code>Technical SEO</code> • <code>Schema (JSON-LD)</code> • <code>Cloudflare Edge</code> • <code>Nginx</code></p>
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 Technical SEO, GEO & Growth Architecture
+
+Beyond writing software, I bridge the gap between engineering and digital acquisition:
+
+- **Technical SEO**: Dynamic XML sitemaps, canonical hierarchies, robots.txt routing, and crawl-budget optimization.
+- **Core Web Vitals**: Sub-second Largest Contentful Paint (LCP), zero Cumulative Layout Shift (CLS), and optimized Interaction to Next Paint (INP).
+- **GEO (Generative Engine Optimization)**: Semantic structuring of content to ensure optimal discovery by AI engines (ChatGPT, Claude, Perplexity, Gemini).
+- **AEO (Answer Engine Optimization)**: Question-first architecture and structured schema for direct answer search surfaces.
+- **Structured Data**: Comprehensive JSON-LD schema markup (LocalBusiness, Organization, Product, Article, FAQ).
+- **Analytics & Conversion**: Certified in Google Analytics with telemetry tracking, conversion funnel audits, and user journey analytics.
 
 ---
 
@@ -145,29 +187,29 @@ Rather than looking at software as isolated code files, I engineer complete oper
 
 <br/>
 
-| Technical Domain | Technologies, Protocols & Frameworks |
+| Technical Domain | Technologies, Protocols & Tooling |
 | :--- | :--- |
 | **Languages & Scripting** | `JavaScript (ES6+)`, `TypeScript`, `Python`, `PHP`, `C++`, `Bash/Shell`, `PowerShell`, `SQL` |
-| **Backend & Architecture** | `Node.js`, `Express.js`, `NestJS`, `FastAPI`, `Flask`, `RESTful APIs`, `OpenAPI / Swagger`, `Socket.io`, `Webhooks` |
+| **Frontend & Web** | `React.js`, `Vite + TypeScript`, `Next.js`, `Progressive Web Apps (PWA)`, `TailwindCSS`, `Bootstrap`, `HTML5/CSS3` |
+| **Backend & Architecture** | `Node.js`, `Express.js`, `NestJS`, `FastAPI`, `PHP`, `RESTful APIs`, `OpenAPI / Swagger`, `Socket.io`, `Webhooks` |
 | **Messaging & Bot Systems** | `WaMaX Custom WhatsApp Engine`, `WaMaX Team Inbox`, `Telegram Bot API (Pyrogram/Telethon)`, `Meta Graph API Concepts` |
-| **AI & Automation** | `n8n Workflows`, `OpenAI API`, `Structured Output Parsing`, `OCR / Tesseract`, `Document Extraction Pipelines` |
+| **AI, Speech & Automation** | `Google Gemini API`, `Deepgram Speech-to-Text`, `n8n Workflows`, `Tesseract OCR`, `Playwright`, `Puppeteer` |
 | **Databases & Data Storage** | `MySQL (5.7 & 8.0)`, `MariaDB (11.8)`, `PostgreSQL`, `SQLite`, `Redis`, `LowDB / JSON Stores`, `Google Sheets API` |
-| **Container & DevOps** | `Docker`, `Docker Persistent Volumes`, `Linux (Ubuntu/Debian)`, `Android Termux`, `Cloudflare Tunnels`, `Nginx Reverse Proxy` |
-| **Technical SEO & Web Speed** | `Schema.org (JSON-LD)`, `Core Web Vitals (LCP, CLS, INP)`, `Dynamic Sitemaps`, `Robots.txt`, `Google Search Console`, `Lighthouse` |
-| **Frontend & UI/UX** | `React.js`, `Next.js`, `TailwindCSS`, `Bootstrap`, `HTML5 / Semantic Web`, `Chart.js`, `Responsive Dashboards` |
-| **Hardware & Peripherals** | `ESC/POS Thermal Protocol`, `Android ADB / Fastboot`, `Raspberry Pi 3B+`, `USB/Serial Barcode Scanners`, `FFmpeg` |
+| **DevOps, Hosting & Networking** | `Linux (Ubuntu/Debian)`, `Docker & Persistent Volumes`, `Cloudflare Tunnels`, `Nginx / Apache`, `PM2`, `DuckDNS`, `SSH/UFW` |
+| **Hardware, Mobile & IoT** | `Android Termux`, `ESC/POS Thermal Protocol`, `Android Rooting (Magisk)`, `ADB / Fastboot`, `Raspberry Pi 3B+`, `LoRa / GNSS` |
+| **QA, Security & Analytics** | `Production Debugging`, `Root-Cause Incident Triage`, `Server Hardening`, `Google Analytics Certified`, `Lighthouse` |
 
 ---
 
-## 📈 System Architecture: How I Build
+## 🏛️ End-to-End System Architecture
 
 ```mermaid
 graph TD
-    UI["Frontend & Interfaces<br/>(Web Admin, POS Dashboards, Kiosk UI, WhatsApp Chat)"] --> API["Backend & Gateway Layer<br/>(Node.js / Express / FastAPI / Laravel)"]
-    API --> ENG["Custom Engine Layer<br/>(WaMaX WhatsApp Engine & Socket Handlers)"]
-    API --> AI["AI & Automation Layer<br/>(n8n Workflows, OpenAI API, OCR Pipeline)"]
+    UI["Frontend & Interfaces<br/>(React / Vite, PWA, POS Kiosk, WhatsApp UI)"] --> API["Backend & API Gateway Layer<br/>(Node.js / Express / PHP / FastAPI)"]
+    API --> ENG["Custom Engine Layer<br/>(WaMaX WhatsApp Engine & Socket Protocols)"]
+    API --> AI["AI & Processing Pipeline<br/>(Google Gemini, Deepgram Audio, n8n, Tesseract OCR)"]
     API --> DB["Data & Storage<br/>(Dockerized MySQL / MariaDB, Redis, Persistent Volumes)"]
-    API --> INFRA["Infrastructure & Network<br/>(Linux VPS, Nginx, Cloudflare Tunnels, Termux Edge)"]
+    API --> INFRA["Infrastructure & Edge<br/>(Ubuntu VPS, Nginx, Cloudflare Tunnels, Android Termux Edge)"]
 ```
 
 ---
