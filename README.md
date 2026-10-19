@@ -1,7 +1,7 @@
 <div align="center">
 
-# 💫 Muhammed Shefin (msamods)
-### Full-Stack Technology Generalist • Systems & Infrastructure Specialist • Technical Product Builder
+<!-- Animated Dynamic Waving Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,25:0E172A,70:00F0FF,100:7928CA&height=230&section=header&text=Muhammed%20Shefin&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Generalist%20%E2%80%A2%20Systems%20%26%20Infrastructure%20Specialist%20%E2%80%A2%20WaMaX%20Engine&descSize=17&descAlignY=58&descAlign=50" alt="Muhammed Shefin Animated Header" />
 
 <a href="https://wywk.in">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=820&height=100&lines=⚡+Full-Stack+Developer+%26+Distributed+Systems+Architect;🤖+WaMaX+WhatsApp+Engine+%26+Intelligent+Workflow+Automation;🖨️+Creator+of+AndroPrint+(Android+Hardware+Cloud+Print+Server);🐳+Linux+Server+Admin%2C+Docker+Volumes+%26+Cloudflare+Tunnels;🎙️+AI+Integrations:+TailorNotes+(Deepgram+%2B+Google+Gemini);🛡️+Production+QA%2C+Security+Hardening+%26+Incident+Triage;📈+Technical+SEO%2C+GEO%2FAEO+%26+High-Scale+Web+Architecture" alt="Typing SVG" />
@@ -27,11 +27,16 @@
 
 </div>
 
----
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 👨‍💻 Engineering Profile & Overview
 
-I am a **Full-Stack Technology Generalist, Systems & Infrastructure Specialist, and Technical Product Builder**. My work spans the full technical spectrum: understanding core business requirements, diagnosing complex operational bottlenecks across code and infrastructure, engineering scalable solutions, and managing continuous production deployments.
+<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" />
+
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="Waving Hand"> I am **Muhammed Shefin**, a **Full-Stack Technology Generalist, Systems & Infrastructure Specialist, and Technical Product Builder**. 
+
+My work spans the full technical spectrum: understanding core business requirements, diagnosing complex operational bottlenecks across code and infrastructure, engineering scalable solutions, and managing continuous production deployments.
 
 Rather than looking at software solely as isolated code files, I engineer complete, resilient operational ecosystems — connecting responsive user interfaces, robust backend APIs, custom messaging protocols, relational database persistence, AI-driven automation pipelines, and bare-metal server infrastructure.
 
@@ -43,7 +48,10 @@ Rather than looking at software solely as isolated code files, I engineer comple
 - 📈 **SEO, GEO & Digital Growth**: Technical SEO, Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), Schema.org (JSON-LD), and Google Analytics certified.
 - 🎓 **Academics**: BCA (2nd Year) @ **Vivekananda Global University**
 
----
+<br clear="right"/>
+
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🏗️ The 5 Core Technical Capability Pillars
 
@@ -101,7 +109,8 @@ Rather than looking at software solely as isolated code files, I engineer comple
   </tr>
 </table>
 
----
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🌟 Real-World Projects & Systems Portfolio
 
@@ -164,7 +173,8 @@ Rather than looking at software solely as isolated code files, I engineer comple
   </tr>
 </table>
 
----
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📈 Technical SEO, GEO & Growth Architecture
 
@@ -177,7 +187,8 @@ Beyond writing software, I bridge the gap between engineering and digital acquis
 - **Structured Data**: Comprehensive JSON-LD schema markup (LocalBusiness, Organization, Product, Article, FAQ).
 - **Analytics & Conversion**: Certified in Google Analytics with telemetry tracking, conversion funnel audits, and user journey analytics.
 
----
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 💻 Technical Stack & Tooling
 
@@ -199,7 +210,8 @@ Beyond writing software, I bridge the gap between engineering and digital acquis
 | **Hardware, Mobile & IoT** | `Android Termux`, `ESC/POS Thermal Protocol`, `Android Rooting (Magisk)`, `ADB / Fastboot`, `Raspberry Pi 3B+`, `LoRa / GNSS` |
 | **QA, Security & Analytics** | `Production Debugging`, `Root-Cause Incident Triage`, `Server Hardening`, `Google Analytics Certified`, `Lighthouse` |
 
----
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🏛️ End-to-End System Architecture
 
@@ -212,7 +224,21 @@ graph TD
     API --> INFRA["Infrastructure & Edge<br/>(Ubuntu VPS, Nginx, Cloudflare Tunnels, Android Termux Edge)"]
 ```
 
----
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msamods/msamods/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msamods/msamods/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/msamods/msamods/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📊 Live GitHub Analytics
 
@@ -236,7 +262,8 @@ graph TD
 
 </div>
 
----
+<!-- Animated Laser Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 💡 Engineering Philosophy
 
@@ -248,6 +275,9 @@ graph TD
 
 <br/>
 
+<!-- Animated Dynamic Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:00F0FF,100:090D16&height=120&section=footer" alt="Animated Footer" />
+
 <div align="center">
-  <sub>Engineered by <b>Muhammed Shefin</b> • Founder @ <a href="https://wywk.in">wywk.in</a> • <b>MSA MODS</b></sub>
+  <sub>Engineered with precision for <b>Muhammed Shefin</b> • Founder @ <a href="https://wywk.in">wywk.in</a> • <b>MSA MODS</b></sub>
 </div>
